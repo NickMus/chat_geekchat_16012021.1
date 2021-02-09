@@ -1,0 +1,89 @@
+/clientlist asd
+[ asd ]: sdd
+[ asd ]: d
+[ asd ]: sd
+[ asd ]: sd
+[ asd ]: sd
+[ asd ]: sd
+[ asd ]: sd
+[ asd ]: sd
+/end
+/clientlist asd
+/end
+/clientlist asd
+/end
+/clientlist asd
+/end
+/clientlist asd
+[ asd ] to [ asd ]: 
+[ asd ]: dsadas
+[ asd ]: asd
+[ asd ]: sd
+[ asd ]: d
+[ asd ]: d
+[ asd ]: sd
+[ asd ]: asd
+[ asd ]: 
+[ asd ]: 
+[ asd ] to [ asd ]: 
+[ asd ]: sad
+[ asd ]: d
+[ asd ]: d
+[ asd ]: as
+[ asd ]: asd
+[ asd ]: das
+[ asd ]: d
+[ asd ]: as
+[ asd ]: a
+[ asd ]: a
+[ asd ]: d
+[ asd ]: sd
+[ asd ]: sd
+[ asd ]: as
+[ asd ]: as
+[ asd ]: a
+[ asd ]: d
+[ asd ]: d
+[ asd ]: as
+[ asd ]: as
+[ asd ]: 
+[ asd ]: d
+[ asd ]: 
+[ asd ]: as
+[ asd ]: as
+[ asd ]: d
+[ asd ]: d
+[ asd ]: 
+[ asd ]: as
+[ asd ]: 
+[ asd ]: d
+[ asd ]: 
+[ asd ]: as
+[ asd ]: as
+[ asd ]: 
+[ asd ]: d
+[ asd ]: asd
+[ asd ]: as
+[ asd ]: 
+[ asd ]: 
+/end
+/clientlist asd
+/end
+/clientlist asd
+[ asd ]: a
+[ asd ]: sdsd
+[ asd ]: аи
+[ asd ]: аиаи
+[ asd ]: аи
+[ asd ]: аи
+/end
+/clientlist asd
+/end
+/clientlist asd
+/end
+/clientlist asd
+/end
+/clientlist asd
+/end
+/clientlist asd
+/end
